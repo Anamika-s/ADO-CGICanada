@@ -1,0 +1,7 @@
+C:\Users\Anamika\source\repos\ADODemo\ADODemo\bin\Debug\ADODemo.exe.config
+C:\Users\Anamika\source\repos\ADODemo\ADODemo\bin\Debug\ADODemo.exe
+C:\Users\Anamika\source\repos\ADODemo\ADODemo\bin\Debug\ADODemo.pdb
+C:\Users\Anamika\source\repos\ADODemo\ADODemo\obj\Debug\ADODemo.csproj.AssemblyReference.cache
+C:\Users\Anamika\source\repos\ADODemo\ADODemo\obj\Debug\ADODemo.csproj.CoreCompileInputs.cache
+C:\Users\Anamika\source\repos\ADODemo\ADODemo\obj\Debug\ADODemo.exe
+C:\Users\Anamika\source\repos\ADODemo\ADODemo\obj\Debug\ADODemo.pdb
